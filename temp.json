@@ -1,0 +1,897 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/javascript",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/freeCodeCamp/freeCodeCamp",
+                "issues": [
+                    {
+                        "issueName": "Project missing user stories",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/44192"
+                    },
+                    {
+                        "issueName": "Anonymous Message Board headers test",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/44174"
+                    },
+                    {
+                        "issueName": "Instructions on Create a More Complex Shape Using Css and HTML",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/44141"
+                    },
+                    {
+                        "issueName": "Dependency Dashboard",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/44109"
+                    },
+                    {
+                        "issueName": "Add campfire mode to nav menu",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/44040"
+                    },
+                    {
+                        "issueName": "Use user tokens to save user's progress for challenges completed on external sites",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/43873"
+                    },
+                    {
+                        "issueName": "i18n: Python projects' instructions are not translatable",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/43836"
+                    },
+                    {
+                        "issueName": "TypeScript Migration",
+                        "issueURL": "https://www.github.com/freeCodeCamp/freeCodeCamp/issues/43778"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/vuejs/vue",
+                "issues": [
+                    {
+                        "issueName": "Memory leak ??",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12358"
+                    },
+                    {
+                        "issueName": "More detailed Vue Source Maps for error tracking",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12335"
+                    },
+                    {
+                        "issueName": ".exact modifier : Failed to generate render function",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12319"
+                    },
+                    {
+                        "issueName": "Issue in single-file-component + typescript + typedoc or typescript/eslint",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12301"
+                    },
+                    {
+                        "issueName": "[MANUAL INJECTION] renderState in script of type application/json",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12276"
+                    },
+                    {
+                        "issueName": "Vue 2.x reactivity broken when using nested named slots with the same name",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12245"
+                    },
+                    {
+                        "issueName": "New slot syntax doesn't work the same way as old syntax (in some cases)",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12232"
+                    },
+                    {
+                        "issueName": "v-if not patching component scoped slot correctly",
+                        "issueURL": "https://www.github.com/vuejs/vue/issues/12223"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/facebook/react",
+                "issues": [
+                    {
+                        "issueName": "Bug: ESLint react-hooks/rules-of-hooks throw false positive error in unconditional for..of statement with array ",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22788"
+                    },
+                    {
+                        "issueName": "React 18 Bug: Hydration mismatch if empty string is rendered",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22784"
+                    },
+                    {
+                        "issueName": "Timeline view search",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22776"
+                    },
+                    {
+                        "issueName": "Suggestion for React",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22775"
+                    },
+                    {
+                        "issueName": "React 18: \"The stream is not in a state that permits close\" in pipeToReadableStream",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22772"
+                    },
+                    {
+                        "issueName": "[DevTools Bug] Cannot read properties of undefined (reading 'push')",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22770"
+                    },
+                    {
+                        "issueName": "Some one is changing the state variable from the react devlopment tool in production build?",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22758"
+                    },
+                    {
+                        "issueName": "Bug: react-hooks/exhaustive-deps incorrectly considers synchronous access of outer scope that isn't in the dependency list to be a violation",
+                        "issueURL": "https://www.github.com/facebook/react/issues/22743"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/twbs/bootstrap",
+                "issues": [
+                    {
+                        "issueName": "popover with empty string throws null error",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35371"
+                    },
+                    {
+                        "issueName": "Allow user to configure default table head vertical alignment",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35367"
+                    },
+                    {
+                        "issueName": "--bs-scroll-height   What is the use of?",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35366"
+                    },
+                    {
+                        "issueName": "Provide a general summary of the issue",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35364"
+                    },
+                    {
+                        "issueName": ".hide() won't dismiss modal if fade class is present",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35361"
+                    },
+                    {
+                        "issueName": "The footer example does not work on mobile",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35360"
+                    },
+                    {
+                        "issueName": "Form elements show valid styles when using .was-validated even though \"is-invalid\" class is present.",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35357"
+                    },
+                    {
+                        "issueName": "The existence of 2 types in Input group",
+                        "issueURL": "https://www.github.com/twbs/bootstrap/issues/35355"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/getify/You-Dont-Know-JS",
+                "issues": [
+                    {
+                        "issueName": "website for this repo",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1765"
+                    },
+                    {
+                        "issueName": "let for objects?",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1764"
+                    },
+                    {
+                        "issueName": "The reason for JS being a prototype language?",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1763"
+                    },
+                    {
+                        "issueName": "Can I replace 填充 to prollyfill on ch5 of async & performance, branch 1ed-zh-CN?",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1761"
+                    },
+                    {
+                        "issueName": "Chinese translation of 2nd edition book1",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1729"
+                    },
+                    {
+                        "issueName": "Is this example in the book really a closure or just global scope reference?",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1727"
+                    },
+                    {
+                        "issueName": "Ukrainian translation of YDKJS Yet 2nd Edition",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1719"
+                    },
+                    {
+                        "issueName": "for types & grammar 2nd-edition: cover % operator nuances",
+                        "issueURL": "https://www.github.com/getify/You-Dont-Know-JS/issues/1703"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/trekhleb/javascript-algorithms",
+                "issues": [
+                    {
+                        "issueName": "Doing Interpolation with FFT in JavaScript efficiency for hard polynomials problems",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/783"
+                    },
+                    {
+                        "issueName": "translation typo error.",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/765"
+                    },
+                    {
+                        "issueName": "Error: node-canvas was built without JPEG support",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/757"
+                    },
+                    {
+                        "issueName": "Pancake sort",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/748"
+                    },
+                    {
+                        "issueName": "Use the playground in a browser",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/728"
+                    },
+                    {
+                        "issueName": "Comment - fast Walsh Hadamard transform",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/727"
+                    },
+                    {
+                        "issueName": "Bit Reversal missing?",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/692"
+                    },
+                    {
+                        "issueName": "Doing Interpolation with FFT in jscript efficiency for hard polynomials problems ",
+                        "issueURL": "https://www.github.com/trekhleb/javascript-algorithms/issues/689"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/airbnb/javascript",
+                "issues": [
+                    {
+                        "issueName": "Point 3.8 looks unclear regarding spread operator.",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2514"
+                    },
+                    {
+                        "issueName": "react/function-component-definition configuration violates style guide",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2505"
+                    },
+                    {
+                        "issueName": "[no-restricted-exports] Fails on export { default } from ...",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2500"
+                    },
+                    {
+                        "issueName": "Remove outdated \"Other Styles\" entry",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2492"
+                    },
+                    {
+                        "issueName": "Ignore property modifications on params named \"state\"",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2485"
+                    },
+                    {
+                        "issueName": "Allow custom acc naming in reduce (excluding for no-param-reassign)",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2476"
+                    },
+                    {
+                        "issueName": "Section 3.5 (sorting shorthand properties first) can impair readability",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2465"
+                    },
+                    {
+                        "issueName": "Why is eslint-plugin-import configured to ignore node_modules?",
+                        "issueURL": "https://www.github.com/airbnb/javascript/issues/2457"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/electron/electron",
+                "issues": [
+                    {
+                        "issueName": "[Feature Request]: Can I copy webcontents or browserview ?",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31892"
+                    },
+                    {
+                        "issueName": "[Bug]: BrowserWindow.focus freezes UI after window switching",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31891"
+                    },
+                    {
+                        "issueName": "[Bug]: The string \"g\" is truncated in the tray menu.",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31889"
+                    },
+                    {
+                        "issueName": "[Feature Request]: can i open the extension popup page and background page in electron",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31888"
+                    },
+                    {
+                        "issueName": "Debugging Electron on MacOS via VSCode (or XCode)",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31886"
+                    },
+                    {
+                        "issueName": "[Bug]: 16.0.0 takes SIGTRAP at startup under arm64 and Wayland",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31885"
+                    },
+                    {
+                        "issueName": "[Bug]: app crashes with error \"(ipc/send) invalid destination port\"",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31876"
+                    },
+                    {
+                        "issueName": "[Bug]: Permission issue in electron js (NEXT.js + Electron)",
+                        "issueURL": "https://www.github.com/electron/electron/issues/31875"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/json",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/httpie/httpie",
+                "issues": [
+                    {
+                        "issueName": "Response headers sharing the same names get converted into a comma-separated list",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1207"
+                    },
+                    {
+                        "issueName": "Ignoring broken plugins",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1204"
+                    },
+                    {
+                        "issueName": "SSL/TLS server certificat validation",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1202"
+                    },
+                    {
+                        "issueName": "http://external.system.id=",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1201"
+                    },
+                    {
+                        "issueName": "GUI/CLI interface for saving requests",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1196"
+                    },
+                    {
+                        "issueName": "Drop Python 3.6. support in Dec due to EOL",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1177"
+                    },
+                    {
+                        "issueName": "Please vote on issues 👍 👎 ",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1158"
+                    },
+                    {
+                        "issueName": "Do not append missing XML declaration in formatted responses",
+                        "issueURL": "https://www.github.com/httpie/httpie/issues/1156"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/iptv-org/iptv",
+                "issues": [
+                    {
+                        "issueName": "Europe by Satellite",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5409"
+                    },
+                    {
+                        "issueName": "CourtTV",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5406"
+                    },
+                    {
+                        "issueName": "Omega TV",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5398"
+                    },
+                    {
+                        "issueName": "Teletoon",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5392"
+                    },
+                    {
+                        "issueName": "NBC  [KNBC-TV] ",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5390"
+                    },
+                    {
+                        "issueName": "Da Ai Television",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5373"
+                    },
+                    {
+                        "issueName": "Villa Mantero TV",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5368"
+                    },
+                    {
+                        "issueName": "ABC 7 NY [WABC-TV] (or ABC East Coast)",
+                        "issueURL": "https://www.github.com/iptv-org/iptv/issues/5364"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/prettier/prettier",
+                "issues": [
+                    {
+                        "issueName": "Upgrade to remark-parse@9+",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11828"
+                    },
+                    {
+                        "issueName": "HTML with Unicode - SyntaxError: Unexpected character \"\"\"",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11822"
+                    },
+                    {
+                        "issueName": "Add README.md for build script",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11817"
+                    },
+                    {
+                        "issueName": "Release 2.5",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11816"
+                    },
+                    {
+                        "issueName": "Prettier can't know if placeholder content is safe to switch from single/double quotes in styled-components CSS",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11814"
+                    },
+                    {
+                        "issueName": "Format css is wrong",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11811"
+                    },
+                    {
+                        "issueName": "Markdown with proseWrap: \"never\" de-formats tables with Chinese characters whose rows are over a certain length",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11799"
+                    },
+                    {
+                        "issueName": "Markdown proseWrap: \"never\" incorrectly mangles <code> inside <table>",
+                        "issueURL": "https://www.github.com/prettier/prettier/issues/11798"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/tiangolo/fastapi",
+                "issues": [
+                    {
+                        "issueName": "Get all path parameters from a route object",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4190"
+                    },
+                    {
+                        "issueName": "Can't use custom field type",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4189"
+                    },
+                    {
+                        "issueName": "Performance regression of resolving dependencies",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4187"
+                    },
+                    {
+                        "issueName": "multiprocessing Rerun",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4186"
+                    },
+                    {
+                        "issueName": "Dependency Injection for startup in test client",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4183"
+                    },
+                    {
+                        "issueName": "BackgroundTasks not working in arm64 such as AWS graviton chip",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4180"
+                    },
+                    {
+                        "issueName": "Slow commit causes foreign key error in microservice",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4178"
+                    },
+                    {
+                        "issueName": "[Request] Function - Fetch python callback in js and access javascript from FastAPI",
+                        "issueURL": "https://www.github.com/tiangolo/fastapi/issues/4173"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/chinese-poetry/chinese-poetry",
+                "issues": [
+                    {
+                        "issueName": "诗词歌赋，赋的内容也需要整理下",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/276"
+                    },
+                    {
+                        "issueName": "全唐詩中的斷句問題，須解決",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/275"
+                    },
+                    {
+                        "issueName": "有没有关于古诗朗诵的呢",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/273"
+                    },
+                    {
+                        "issueName": "基于此仓库开发的古诗词取名工具已开源",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/272"
+                    },
+                    {
+                        "issueName": "建议默认显示繁体字",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/269"
+                    },
+                    {
+                        "issueName": "为什么“采菊东篱下，悠然见南山。”这种这么有名的诗词都没有",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/268"
+                    },
+                    {
+                        "issueName": "有没人有做个接口服务的。",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/264"
+                    },
+                    {
+                        "issueName": "宋词的数据超过4000处需要校对、修正",
+                        "issueURL": "https://www.github.com/chinese-poetry/chinese-poetry/issues/261"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/SheetJS/sheetjs",
+                "issues": [
+                    {
+                        "issueName": "Supported format image is look ugly in dark mode of github",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2457"
+                    },
+                    {
+                        "issueName": "In versions later than 0.16.3, the performance of exporting .xls files deteriorates severely. It takes 15 seconds to export 50,000 data records.",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2456"
+                    },
+                    {
+                        "issueName": "json_to_sheet should have an option to write down only columns, specified in headers option",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2455"
+                    },
+                    {
+                        "issueName": "launching sheet in excel straight away without browser dialog",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2454"
+                    },
+                    {
+                        "issueName": "Is there a workaround to insert images in ods export? ",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2453"
+                    },
+                    {
+                        "issueName": "How to set specific row on !autofilter",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2452"
+                    },
+                    {
+                        "issueName": "Dependencies should be deduplicated",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2451"
+                    },
+                    {
+                        "issueName": "Error in reading excel file",
+                        "issueURL": "https://www.github.com/SheetJS/sheetjs/issues/2448"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nlohmann/json",
+                "issues": [
+                    {
+                        "issueName": "json::dump() is not compatible with C++ standards",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3147"
+                    },
+                    {
+                        "issueName": "Bad JSON diff when removing object in array of object",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3146"
+                    },
+                    {
+                        "issueName": "Issue with json::parse decoding codepoints",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3142"
+                    },
+                    {
+                        "issueName": "build failure on upcoming gcc-12: test/src/unit-regression1.cpp:392:22: error: ambiguous overload for 'operator='",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3138"
+                    },
+                    {
+                        "issueName": "Applying JSON patch creates parent object",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3134"
+                    },
+                    {
+                        "issueName": "Iterators cannot be used with range-v3",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3130"
+                    },
+                    {
+                        "issueName": "Deadlock on create json - windows only",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3129"
+                    },
+                    {
+                        "issueName": "Help needed",
+                        "issueURL": "https://www.github.com/nlohmann/json/issues/3112"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/alibaba/fastjson",
+                "issues": [
+                    {
+                        "issueName": "object to jsonString; \"&timestamp\" became \"×tamp\", \"&times\" became \"×\". latest version 1.2.78",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3952"
+                    },
+                    {
+                        "issueName": "parseArray(...)未检查格式，导致非法json也能被解析",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3950"
+                    },
+                    {
+                        "issueName": "适用@JsonFielddefalueValue后序列化类型不正确",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3949"
+                    },
+                    {
+                        "issueName": "fastjson 1.2.78 需要进一步检查完整性",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3948"
+                    },
+                    {
+                        "issueName": "非法json可以成功解析",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3946"
+                    },
+                    {
+                        "issueName": "Android版fastjson JSON.toJSONString 传入org.json.JSONObject后只打印{}",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3944"
+                    },
+                    {
+                        "issueName": "反序列化支持null转空字符串吗，如果支持该怎么做。",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3941"
+                    },
+                    {
+                        "issueName": "Map.Entry<Integer, Integer> 类型序列化json字符串结果不对",
+                        "issueURL": "https://www.github.com/alibaba/fastjson/issues/3940"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/linux",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/jlevy/the-art-of-command-line",
+                "issues": [
+                    {
+                        "issueName": "Command lines 101",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/746"
+                    },
+                    {
+                        "issueName": "Turkish translation and maintainer",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/744"
+                    },
+                    {
+                        "issueName": "Add s5cmd to the section that mentions Amazon S3 utilities",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/741"
+                    },
+                    {
+                        "issueName": "Y",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/740"
+                    },
+                    {
+                        "issueName": "05/14/2021",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/737"
+                    },
+                    {
+                        "issueName": "may be allow in ur guidelines ",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/736"
+                    },
+                    {
+                        "issueName": "Mention pipr",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/732"
+                    },
+                    {
+                        "issueName": "Do we need the Contributor Over Time chart?",
+                        "issueURL": "https://www.github.com/jlevy/the-art-of-command-line/issues/729"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/nodejs/node",
+                "issues": [
+                    {
+                        "issueName": "twistlock issue: CVE-2021-3807 for ansi-regex from https://nodejs.org/dist/v14.17.5/node-v14.17.5-linux-x64.tar.gz",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40853"
+                    },
+                    {
+                        "issueName": "writable.end(cb), the cb is never called",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40851"
+                    },
+                    {
+                        "issueName": "impl URLPattern",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40844"
+                    },
+                    {
+                        "issueName": "Structured cloning of transferable non-serializable objects should throw DOMException instead of TypeError",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40841"
+                    },
+                    {
+                        "issueName": "Structured cloning implementation from performance.mark is incomplete",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40840"
+                    },
+                    {
+                        "issueName": "snapshot cause EXC_BAD_ACCESS",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40832"
+                    },
+                    {
+                        "issueName": "fsPromises.mkdir() returns an incomplete path when the recursive option is passed",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40829"
+                    },
+                    {
+                        "issueName": "v8.serialize leaks memory",
+                        "issueURL": "https://www.github.com/nodejs/node/issues/40828"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/atom/atom",
+                "issues": [
+                    {
+                        "issueName": "Changed file pop warning uses lots of CPU resources",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23271"
+                    },
+                    {
+                        "issueName": "Installing failed.",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23266"
+                    },
+                    {
+                        "issueName": "Atom crash everytime on new Fedora Worktation 35",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23259"
+                    },
+                    {
+                        "issueName": "Integration of investment extension syntax highlighting for the unknown",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23256"
+                    },
+                    {
+                        "issueName": "no such file or directory v8_context_snapshot.bin",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23253"
+                    },
+                    {
+                        "issueName": "Tags not colouring in HTML",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23252"
+                    },
+                    {
+                        "issueName": "Add Installation Location to Atom",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23251"
+                    },
+                    {
+                        "issueName": "Can't install anything in atom",
+                        "issueURL": "https://www.github.com/atom/atom/issues/23247"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/trimstray/the-book-of-secret-knowledge",
+                "issues": [
+                    {
+                        "issueName": "Full bug report. Am I being Hacked? ",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/276"
+                    },
+                    {
+                        "issueName": "Google approval ",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/275"
+                    },
+                    {
+                        "issueName": "What is this",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/274"
+                    },
+                    {
+                        "issueName": "https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/273"
+                    },
+                    {
+                        "issueName": "DNS protection from spoofing",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/271"
+                    },
+                    {
+                        "issueName": "Am I being hacked?",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/270"
+                    },
+                    {
+                        "issueName": "@trimstray",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/267"
+                    },
+                    {
+                        "issueName": "Book of secret knowledge",
+                        "issueURL": "https://www.github.com/trimstray/the-book-of-secret-knowledge/issues/266"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/vercel/hyper",
+                "issues": [
+                    {
+                        "issueName": "Remove right margin",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6111"
+                    },
+                    {
+                        "issueName": "Hyper won't start on Fedora 35",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6109"
+                    },
+                    {
+                        "issueName": "MacOS editor:deleteEndLine doesn't work",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6108"
+                    },
+                    {
+                        "issueName": "my terminal didnt respond me while im using vim inside it i want to change my mongodb version to 5.0 and commit changes ",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6101"
+                    },
+                    {
+                        "issueName": "Intermittently getting font artifacts in tmux",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6100"
+                    },
+                    {
+                        "issueName": "http://subdomain.localhost valid url are not clickable",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6098"
+                    },
+                    {
+                        "issueName": "emojis error",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6087"
+                    },
+                    {
+                        "issueName": "Edit Menu?",
+                        "issueURL": "https://www.github.com/vercel/hyper/issues/6086"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/alacritty/alacritty",
+                "issues": [
+                    {
+                        "issueName": "How to specify title when creating new window?",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5614"
+                    },
+                    {
+                        "issueName": "Alacritty causes stuttering in games/GPU-heavy apps, even when minimized",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5606"
+                    },
+                    {
+                        "issueName": "CreateNewWindow core dump",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5585"
+                    },
+                    {
+                        "issueName": "Fullscreen in macOS doesn't quit properly",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5578"
+                    },
+                    {
+                        "issueName": "Fullscreen not working properly ",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5565"
+                    },
+                    {
+                        "issueName": "CreateNewWindow command should copy working directory",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5562"
+                    },
+                    {
+                        "issueName": "alacritty msg create-window copies shell",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5561"
+                    },
+                    {
+                        "issueName": "Allow passing arguments to alacritty msg create-window",
+                        "issueURL": "https://www.github.com/alacritty/alacritty/issues/5560"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/GitSquared/edex-ui",
+                "issues": [
+                    {
+                        "issueName": "Folder names ending with file extension treated as files",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/1167"
+                    },
+                    {
+                        "issueName": "Fix CI pipeline for MacOS arm64 target",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/1054"
+                    },
+                    {
+                        "issueName": "Support proxies/regulated networks",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/1050"
+                    },
+                    {
+                        "issueName": "Unhandled display aspect ratios",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/832"
+                    },
+                    {
+                        "issueName": "[READ FIRST] Current project status",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/769"
+                    },
+                    {
+                        "issueName": "UI reload crash when using multiple tabs",
+                        "issueURL": "https://www.github.com/GitSquared/edex-ui/issues/630"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/FiloSottile/mkcert",
+                "issues": [
+                    {
+                        "issueName": "Starting from Big Sur 11.3 certificate installation requires user interaction",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/415"
+                    },
+                    {
+                        "issueName": "Consider adding manpage?",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/413"
+                    },
+                    {
+                        "issueName": "Mac - Chrome / Not Secure / Certificate is not valid",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/412"
+                    },
+                    {
+                        "issueName": "Advanced options aren't working",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/411"
+                    },
+                    {
+                        "issueName": "Change or choose rootCA path for a user directory with accented characters",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/410"
+                    },
+                    {
+                        "issueName": "Support Firefox in Flatpak (if possible)",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/409"
+                    },
+                    {
+                        "issueName": "Default behavior should be to do nothing",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/401"
+                    },
+                    {
+                        "issueName": "Upload mkcert to winget repository",
+                        "issueURL": "https://www.github.com/FiloSottile/mkcert/issues/400"
+                    }
+                ]
+            }
+        ]
+    }
+]
